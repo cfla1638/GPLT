@@ -1,6 +1,6 @@
 # GPLT
 
-我大一参加团体程序设计天梯赛，写的所有代码。
+大一参加团体程序设计天梯赛，写的所有代码。
 
 [题目列表 - 编程题 - 团体程序设计天梯赛-练习集 (pintia.cn)](https://pintia.cn/problem-sets/994805046380707840/problems/type/7?page=0)
 
